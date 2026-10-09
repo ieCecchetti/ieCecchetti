@@ -1,11 +1,9 @@
 <img src="https://avatars.githubusercontent.com/u/24657094?v=4" width="140" align="right" alt="LEGO me"/>
 
-# Hi, I'm Enrico 👋
+### Hi, I'm Enrico 👋
 
 Software Engineer at **Nearform**, based in Italy 🇮🇹.
 I build backends, mobile apps and, lately, AI tools for developers.
-
-> "Talk is cheap. Show me the code." ― Linus Torvalds
 
 ### 🛠️ What I work with
 
