@@ -1,3 +1,5 @@
+<a href="https://buymeacoffee.com/ececchetti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40" align="right"></a>
+
 ### Hi, I'm Enrico
 
 Software Engineer at **Nearform**, based in Italy.
@@ -23,5 +25,3 @@ Earlier work: networking in C ([TCP, UDP, SSL sockets](https://github.com/ieCecc
 ### Get in touch
 
 [Website](https://iececchetti.github.io/) · [Email](mailto:ienricocecchetti@gmail.com)
-
-<a href="https://buymeacoffee.com/ececchetti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50"></a>
