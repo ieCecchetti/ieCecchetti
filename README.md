@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/24657094?v=4" width="140" align="right" alt="LEGO me"/>
-
 ### Hi, I'm Enrico 👋
 
 Software Engineer at **Nearform**, based in Italy 🇮🇹.
